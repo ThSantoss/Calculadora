@@ -18,8 +18,8 @@ input {
     border-radius: 25%;
 }
 .num {
-    width: 64px;
-    height:67px;
+    width: 4rem;
+    height: 5rem;
 }
 .text {
     width:160px;
